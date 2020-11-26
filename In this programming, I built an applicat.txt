@@ -1,0 +1,30 @@
+In this programming, I built an application to assist to calculate the future Value of an invesment with interest using 
+FV simple & Compounded interest rate. 
+
+
+
+Welcome to the future value calculator 
+    Based on an intial invesment, an "effective" interest rarte, 
+    and a number of yours, Calculates the future value of an invesmnet 
+    with interest applied using a simpl eand compounded annual interest rate. 
+    A table of results displays the future values of the user's investment year by year.
+
+    Enter 'x' to exit at any time 
+    
+what is the initial investment in US$ (1 -100000)? 100
+what is the interest rate as percentage (1-100)? (1 -100)? 15
+how many years of investment (1-50)? (1 -50)? 10
+ 
+Period            FV Simple            FV Compounded
+------------------------------------------------------
+
+Year 1              115.00           115.00
+Year 2              130.00           132.25
+Year 3              145.00           152.09
+Year 4              160.00           174.90
+Year 5              175.00           201.14
+Year 6              190.00           231.31
+Year 7              205.00           266.00
+Year 8              220.00           305.90
+Year 9              235.00           351.79
+Year 10             250.00           404.56
